@@ -1,5 +1,5 @@
 # ignore ALL .log files
 *.log
-
+index.html
 # ignore ALL files in Any direcotry named temp
 temp/
